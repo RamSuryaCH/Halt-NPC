@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "795464349478",
+    "project_id": "haltnpc-e161b",
+    "storage_bucket": "haltnpc-e161b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795464349478:android:4307761965699e7ac273e7",
+        "android_client_info": {
+          "package_name": "com.example.haltnpc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0rjVek7mSX4P_Xo4eu_KwtdVmwGAgsTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
